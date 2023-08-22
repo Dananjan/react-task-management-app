@@ -1,0 +1,107 @@
+.mainContent{
+    display: flex;
+  }
+  
+.welcomeMessage{
+    padding-top: 180px;
+    padding-left: 240px;
+    background-color: rgb(228, 231, 231);
+    text-align: center;
+    font-size: larger;
+    color: rgb(26, 91, 211);
+}
+  
+.mainLR{
+    flex-grow: 1;
+    text-align: center;
+    display: flex;
+    padding: 30px 50px 15px 40px;
+    min-height: 625px;
+    background-color: rgb(228, 231, 231);
+}
+  
+.subMainLogin{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: 380px;
+    padding-top:15px ;
+    border-radius: 30px;
+    background-color: white;
+}
+  
+.subMainReg{
+    display: flex;
+    justify-content: center;
+    height: 564px;
+    width: 380px;
+    padding-top:15px ;
+    border-radius: 30px;
+    background-color: white;
+}
+  
+.fill{
+    width: 250px;
+    height: 36px;
+    border-radius: 30px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    padding-left: 20px;
+    font-size: 15px;
+}
+  
+button{
+    cursor: pointer;
+}
+  
+.authBtn {
+    width: 240px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(241, 72, 6);
+    color: white;
+    box-shadow: inset 0px 0px 25px 0px rgb(14, 14, 15);
+    font-size: 20px;
+    border: none;
+}
+  
+.loginBtnq{
+    padding-top: 20px;
+}
+  
+.regLink{
+    padding-top: 10px;
+    font-size: 12px;
+}
+  
+.inputs{
+    padding-top: 20px;
+}
+  
+.inputsReg{
+    padding-top: 16px;
+}
+  
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+    
+.pwd {
+    margin-left: 25px;
+}
+  
+.passwordToggle {
+    margin-left: 8px;
+}
+  
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+  
+  
+      

@@ -1,0 +1,113 @@
+body{
+    margin-top:20px;
+    background: #f8f8f8;
+}
+
+.main-title {
+    margin-left: 220px;
+    margin-top: 110px;
+}
+
+.divider {
+    margin-left: 180px;
+    margin-right: 20px;
+}
+
+
+.container {
+    margin-top: 20px;
+}
+
+.filter-section {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.filter-lbl {
+    margin-right: 20px;
+}
+
+.filter-input {
+    margin-right: 5px;
+}
+
+.frm-add{
+    margin-top: 100px;
+}
+
+.frm-edit {
+    margin-top: 220px;
+}
+
+.h-ruler {
+    margin: 10px 0 10px 0;
+    
+}
+
+.card {
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+  
+.todo-list {
+    margin: 10px 0;
+   
+}
+  
+.todo-list .todo-item {
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 0;
+}  
+
+.todo-item {
+    display: flex;
+    align-items: center; 
+    flex-grow: 1; 
+}
+  
+div.checker {
+    width: 18px;
+    height: 18px
+}
+
+
+  
+div.checker input{
+    width: 18px;
+    height: 18px
+}
+  
+div.checker {
+    display: inline-block;
+    vertical-align: middle;
+}
+  
+.done {
+    text-decoration: line-through ;
+    text-decoration-color: rgb(34, 202, 29);
+    text-decoration-thickness: 1.5px;
+}
+
+.add-btn {
+    margin-left: 500px;
+    color: white !important ;
+    background-color: rgb(75, 75, 247) !important;
+    border-color: rgb(75, 75, 247) !important;
+    margin-bottom: 20px;
+}
+
+.task-item{
+    display: flex;
+    align-items: center; 
+    flex-grow: 1; 
+}
+
+.task{
+    width: 300px;
+}
+
+.item-time{
+    margin-right:300px ;
+} 
+

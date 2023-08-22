@@ -1,0 +1,51 @@
+.my-component-container {
+    margin-left: 210px;
+    padding: 10px;
+}
+
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.align{
+    position: relative;   
+}
+
+.avatar{
+    width: 180px;
+    height:180px;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+}	
+
+.form-group{
+    padding-bottom: 5px;
+}
+
+.form-control{
+    margin-top: 5px;
+}
+
+button{
+    margin-right: 2px;
+}
+
+.profileForm{
+    margin-left: 30px;
+}
+
+.title{
+    margin-left: 30px;
+}
+
+
